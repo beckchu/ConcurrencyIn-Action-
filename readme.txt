@@ -1,4 +1,2 @@
-Git is a distributed version control system.
-Git is free software distributed under GPL.
-Git has a mutable index called stage.
-Git tracks changes of files.
+这个分支是对书籍：C++ concurrency in Action的代码总结；
+总结内容在PPT上，已经打印；
